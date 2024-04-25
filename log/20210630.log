@@ -1,0 +1,1148 @@
+[2021-06-30 11:02:29,601][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:04:15,292][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:05:16,356][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:05:16,357][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 11:05:16,357][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 11:05:16,357][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 11:05:16,357][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "username": "18538049779",
+    "password": "qwer123456"
+}
+[2021-06-30 11:05:16,358][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 11:05:16,358][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 11:05:16,358][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 11:05:16,468][user.py 27][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":100,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625022316}
+[2021-06-30 11:06:06,101][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:06:06,102][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 11:06:06,102][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 11:06:06,102][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 11:06:06,102][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "username": "18538049779",
+    "password": "qwer123456"
+}
+[2021-06-30 11:06:06,103][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 11:06:06,103][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 11:06:06,103][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 11:06:06,201][user.py 27][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":100,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625022365}
+[2021-06-30 11:07:49,492][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:07:49,493][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 11:07:49,493][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 11:07:49,493][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 11:07:49,493][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 11:07:49,493][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "username": "18538049779",
+    "password": "qwer123456"
+}
+[2021-06-30 11:07:49,493][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 11:07:49,493][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 11:07:49,493][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 11:07:49,605][user.py 27][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":100,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625022469}
+[2021-06-30 11:16:18,774][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:16:18,775][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 11:16:18,775][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 11:16:18,775][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 11:16:18,775][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 11:16:18,775][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "username": "18538049779",
+    "password": "qwer123456"
+}
+[2021-06-30 11:16:18,775][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 11:16:18,775][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 11:16:18,775][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 11:16:18,930][user.py 28][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":100,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625022978}
+[2021-06-30 11:22:04,885][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:22:12,884][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 11:22:12,885][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 11:22:12,890][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 11:22:12,891][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 11:22:12,892][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "username": "18538049779",
+    "password": "qwer123456"
+}
+[2021-06-30 11:22:12,893][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 11:22:12,894][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 11:22:12,894][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 11:25:31,812][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:26:25,473][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:26:29,803][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 11:26:29,803][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 11:26:29,805][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 11:26:29,806][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 11:26:29,806][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 11:26:29,806][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 11:26:29,807][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 11:26:29,807][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 11:26:41,416][user.py 28][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625023589}
+[2021-06-30 11:26:57,119][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:26:57,120][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 11:26:57,120][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 11:26:57,120][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 11:26:57,120][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 11:26:57,121][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 11:26:57,121][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 11:26:57,121][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 11:26:57,121][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 11:26:57,259][user.py 28][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625023616}
+[2021-06-30 11:31:14,681][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:31:14,682][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 11:31:14,682][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 11:31:14,682][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 11:31:14,682][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 11:31:14,682][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 11:31:14,682][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 11:31:14,682][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 11:31:14,682][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 11:31:14,826][user.py 29][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625023874}
+[2021-06-30 11:38:47,882][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 11:38:47,883][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 11:38:47,883][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 11:38:47,883][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 11:38:47,883][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 11:38:47,883][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 11:38:47,883][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 11:38:47,883][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 11:38:47,883][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 11:38:48,021][user.py 27][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625024327}
+[2021-06-30 12:03:34,895][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:03:34,898][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:03:34,906][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:03:34,906][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:13:14,934][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:13:14,937][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:13:14,939][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:13:14,939][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:13:43,537][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:13:43,541][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:13:43,542][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:13:43,542][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:18:46,132][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:18:46,133][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:18:46,134][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:18:46,277][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:19:12,824][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:19:12,826][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:19:12,826][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:19:12,973][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:19:12,981][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 12:19:12,982][test_user_login.py 9][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 12:19:13,165][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 12:19:13,165][test_user_login.py 9][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 12:20:13,384][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:20:13,385][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:20:13,385][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:20:13,603][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:20:13,631][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 12:20:13,632][test_user_login.py 9][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 12:20:13,957][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 12:20:13,957][test_user_login.py 9][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 12:21:03,591][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:21:03,594][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:21:03,595][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:21:03,595][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:21:17,440][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:21:17,442][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:21:17,442][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:21:17,615][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:21:17,625][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 12:21:17,625][test_user_login.py 9][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 12:21:17,819][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 12:21:17,819][test_user_login.py 9][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 12:22:49,781][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:22:49,785][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:22:49,786][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:22:49,786][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:22:56,009][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:22:56,011][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:22:56,011][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:22:56,138][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:22:56,147][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 12:22:56,147][test_user_login.py 9][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 12:22:56,148][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 12:22:56,148][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 12:22:56,148][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 12:22:56,149][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 12:22:56,149][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 12:22:56,149][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 12:22:56,149][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 12:22:56,149][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 12:22:56,262][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625026975}
+[2021-06-30 12:22:56,506][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 12:22:56,506][test_user_login.py 9][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 12:22:56,506][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 12:22:56,506][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 12:22:56,507][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 12:22:56,507][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 12:22:56,507][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 12:22:56,507][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 12:22:56,507][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 12:22:56,507][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 12:22:56,592][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625026976}
+[2021-06-30 12:27:58,805][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:27:58,806][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:27:58,806][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:27:58,947][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:28:59,851][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 12:28:59,853][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 12:28:59,853][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 12:29:00,019][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 12:29:00,029][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 12:29:00,029][test_user_login.py 9][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 12:29:00,029][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 12:29:00,030][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 12:29:00,030][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 12:29:00,030][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 12:29:00,066][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 12:29:00,066][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 12:29:00,066][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 12:29:00,067][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 12:29:00,170][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625027339}
+[2021-06-30 12:29:00,393][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 12:29:00,394][test_user_login.py 9][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 12:29:00,394][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 12:29:00,394][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 12:29:00,394][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 12:29:00,394][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 12:29:00,394][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 12:29:00,394][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 12:29:00,394][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 12:29:00,395][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 12:29:00,481][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625027340}
+[2021-06-30 14:01:48,525][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:01:48,527][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 14:01:48,527][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 14:01:48,715][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:01:48,724][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:01:48,724][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:01:48,724][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:01:48,724][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:01:48,725][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:01:48,725][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:01:48,725][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:01:48,725][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:01:48,725][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:01:48,726][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:01:48,939][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625032908}
+[2021-06-30 14:01:49,193][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:01:49,194][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:01:49,194][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:01:49,194][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:01:49,194][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:01:49,194][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:01:49,194][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:01:49,194][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:01:49,195][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:01:49,195][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:01:49,347][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625032908}
+[2021-06-30 14:02:51,589][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:02:51,593][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:02:51,594][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 14:02:51,595][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 14:03:00,732][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:03:00,733][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 14:03:00,733][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 14:03:00,843][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:03:00,851][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:03:00,851][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:03:00,851][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:03:00,851][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:03:00,851][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:03:00,851][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:03:00,852][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:03:00,852][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:03:00,852][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:03:00,852][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:03:00,945][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625032980}
+[2021-06-30 14:03:01,098][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:03:01,098][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:03:01,098][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:03:01,099][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:03:01,099][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:03:01,099][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:03:01,099][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:03:01,099][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:03:01,099][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:03:01,099][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:03:01,184][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625032980}
+[2021-06-30 14:03:27,325][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:03:27,328][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:03:27,329][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 14:03:27,329][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 14:03:32,631][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:03:32,633][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 14:03:32,633][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 14:03:32,752][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:03:32,760][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:03:32,760][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:03:32,760][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:03:32,761][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:03:32,761][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:03:32,761][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:03:32,797][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:03:32,798][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:03:32,798][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:03:32,799][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:03:32,945][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625033012}
+[2021-06-30 14:03:33,148][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:03:33,148][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:03:33,148][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:03:33,149][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:03:33,149][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:03:33,149][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:03:33,149][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:03:33,149][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:03:33,149][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:03:33,149][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:03:33,288][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625033012}
+[2021-06-30 14:07:39,318][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:07:39,319][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 14:07:39,319][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 14:07:39,476][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:07:39,484][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:07:39,485][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:07:39,485][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:07:39,485][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:07:39,485][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:07:39,485][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:07:39,486][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:07:39,486][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:07:39,486][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:07:39,486][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:07:39,618][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625033259}
+[2021-06-30 14:07:39,829][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:07:39,829][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:07:39,829][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:07:39,829][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:07:39,829][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:07:39,829][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:07:39,830][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:07:39,830][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:07:39,830][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:07:39,830][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:07:39,933][user.py 26][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625033259}
+[2021-06-30 14:16:49,059][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:16:49,060][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 14:16:49,060][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 14:16:49,266][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:16:49,278][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:16:49,278][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:16:49,278][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:16:49,278][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:16:49,278][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:16:49,279][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:16:49,279][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:16:49,279][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:16:49,279][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:16:49,279][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:16:49,439][user.py 25][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625033809}
+[2021-06-30 14:16:49,678][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:16:49,678][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:16:49,679][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:16:49,679][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:16:49,679][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:16:49,679][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:16:49,679][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:16:49,679][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:16:49,679][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:16:49,679][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:16:49,798][user.py 25][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625033809}
+[2021-06-30 14:17:48,458][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:17:48,459][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 14:17:48,459][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 14:17:48,659][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:17:48,668][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:17:48,669][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:17:48,669][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:17:48,669][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:17:48,669][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:17:48,670][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:17:48,670][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:17:48,670][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:17:48,670][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:17:48,670][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:17:48,796][user.py 25][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625033868}
+[2021-06-30 14:17:48,796][test_user_login.py 34][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 14:17:48,799][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:17:48,799][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：
+[2021-06-30 14:17:48,800][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:17:48,800][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:17:48,800][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:17:48,800][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:17:48,800][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:17:48,800][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:17:48,800][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:17:48,800][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:17:48,902][user.py 25][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625033868}
+[2021-06-30 14:17:48,903][test_user_login.py 34][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 14:25:07,781][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:25:07,783][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]} 
+[2021-06-30 14:25:07,783][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', True, 0, 0], ['18538049778', 'qwer123456', False, 1, 104]]}
+[2021-06-30 14:25:07,997][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:27:05,263][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:27:05,265][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 14:27:05,265][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 14:27:05,421][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:28:23,743][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:28:23,744][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 14:28:23,745][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 14:28:23,924][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:28:42,468][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:28:42,470][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 14:28:42,470][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 14:28:42,716][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:44:53,600][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:44:53,602][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 14:44:53,602][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 14:44:53,848][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:45:00,310][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:45:00,313][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 14:45:00,313][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 14:45:00,584][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:45:00,596][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:45:00,597][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 14:45:00,597][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:45:00,597][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:45:00,597][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:45:00,598][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:45:00,633][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:45:00,633][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:45:00,633][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:45:00,634][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:45:00,744][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625035500}
+[2021-06-30 14:45:00,744][test_user_login.py 34][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 14:45:00,748][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:45:00,749][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 14:45:00,749][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:45:00,749][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:45:00,750][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:45:00,750][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:45:00,750][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:45:00,750][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:45:00,751][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:45:00,751][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:45:00,838][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625035500}
+[2021-06-30 14:45:00,838][test_user_login.py 34][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 14:45:21,176][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:45:21,177][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 14:45:21,177][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 14:45:21,356][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:45:21,365][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:45:21,366][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 14:45:21,366][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:45:21,366][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:45:21,366][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:45:21,366][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:45:21,403][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:45:21,403][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:45:21,403][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:45:21,403][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:45:21,533][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625035521}
+[2021-06-30 14:45:21,535][test_user_login.py 34][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 14:45:21,545][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:45:21,546][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 14:45:21,547][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:45:21,548][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:45:21,549][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:45:21,550][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:45:21,551][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:45:21,552][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:45:21,553][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:45:21,553][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:45:21,652][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625035521}
+[2021-06-30 14:45:21,652][test_user_login.py 34][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 14:45:29,100][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:45:29,102][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 14:45:29,102][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 14:45:29,280][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:47:11,462][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:47:11,465][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:47:11,466][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 14:47:11,466][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 14:50:34,317][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:50:34,319][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 14:50:34,319][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 14:50:34,548][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 14:50:34,557][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:50:34,557][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 14:50:34,557][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:50:34,557][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:50:34,557][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:50:34,558][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:50:34,593][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:50:34,593][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:50:34,593][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:50:34,594][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:50:34,725][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625035834}
+[2021-06-30 14:50:34,726][test_user_login.py 34][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 14:50:34,735][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 14:50:34,736][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 14:50:34,737][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 14:50:34,737][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 14:50:34,737][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 14:50:34,738][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 14:50:34,738][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 14:50:34,739][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 14:50:34,739][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 14:50:34,740][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 14:50:34,840][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625035834}
+[2021-06-30 14:50:34,840][test_user_login.py 34][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 14:50:42,542][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 14:50:42,544][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 14:50:42,544][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 14:50:42,786][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:07:38,749][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:07:38,751][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:07:38,751][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:07:39,020][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:15:51,102][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:15:51,104][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:15:51,104][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:15:51,347][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:19:14,830][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:19:14,833][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:19:14,834][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:19:14,834][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:26:33,771][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:26:33,776][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:26:33,777][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:26:34,540][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:27:48,499][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:27:48,504][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:27:48,504][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:27:49,363][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:28:09,648][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:28:09,652][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:28:09,652][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:28:10,429][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:28:30,325][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:28:30,329][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:28:30,330][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:28:31,051][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:35:50,892][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:35:50,893][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:35:50,893][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:35:51,199][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:36:56,708][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:36:56,709][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:36:56,709][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:36:57,048][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:37:46,201][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:47:13,160][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:47:13,162][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:47:13,162][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:47:13,673][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:47:47,183][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:47:47,186][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:47:47,187][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:47:47,187][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:47:54,520][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:47:54,521][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:47:54,521][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:47:54,812][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:48:52,287][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:48:52,288][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:48:52,288][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:48:52,650][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:48:52,661][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:48:52,661][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 15:48:52,662][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:48:52,662][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:48:52,662][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:48:52,662][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:48:52,663][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:48:52,663][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:48:52,663][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:48:52,663][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:48:52,852][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625039332}
+[2021-06-30 15:48:52,854][test_user_login.py 33][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 15:48:52,928][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:48:52,930][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 15:48:52,930][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:48:52,931][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:48:52,931][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:48:52,932][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:48:52,932][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:48:52,933][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:48:52,933][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:48:52,934][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:48:53,031][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625039332}
+[2021-06-30 15:48:53,032][test_user_login.py 33][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 15:51:29,082][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:51:29,083][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:51:29,084][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:51:29,215][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:51:29,224][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:51:29,224][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 15:51:29,224][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:51:29,224][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:51:29,225][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:51:29,225][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:51:29,262][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:51:29,262][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:51:29,262][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:51:29,262][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:51:29,387][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625039489}
+[2021-06-30 15:51:29,388][test_user_login.py 33][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 15:51:29,462][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:51:29,464][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 15:51:29,465][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:51:29,465][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:51:29,466][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:51:29,469][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:51:29,470][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:51:29,471][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:51:29,471][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:51:29,472][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:51:29,581][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625039489}
+[2021-06-30 15:51:29,582][test_user_login.py 33][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 15:53:13,203][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:53:13,204][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:53:13,204][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:53:13,372][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:53:38,502][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:53:38,503][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:53:38,503][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:53:38,626][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:53:38,635][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:53:38,636][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 15:53:38,636][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:53:38,636][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:53:38,636][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:53:38,636][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:53:38,637][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:53:38,637][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:53:38,637][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:53:38,637][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:53:38,746][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625039618}
+[2021-06-30 15:53:38,748][test_user_login.py 33][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 15:53:38,818][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:53:38,819][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 15:53:38,820][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:53:38,821][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:53:38,822][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:53:38,823][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:53:38,824][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:53:38,824][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:53:38,825][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:53:38,826][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:53:38,933][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625039618}
+[2021-06-30 15:53:38,933][test_user_login.py 33][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 15:55:52,990][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:55:52,991][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:55:52,991][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:55:53,146][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:55:53,155][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:55:53,156][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 15:55:53,156][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:55:53,156][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:55:53,156][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:55:53,157][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:55:53,157][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:55:53,157][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:55:53,157][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:55:53,158][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:55:53,257][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625039752}
+[2021-06-30 15:55:53,257][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 15:55:53,310][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:55:53,311][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 15:55:53,311][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:55:53,311][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:55:53,312][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:55:53,312][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:55:53,312][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:55:53,312][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:55:53,312][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:55:53,312][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:55:53,427][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625039753}
+[2021-06-30 15:55:53,428][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 15:58:43,100][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:58:43,101][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:58:43,102][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:58:43,224][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:58:43,233][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:58:43,233][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 15:58:43,233][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:58:43,233][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:58:43,234][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:58:43,234][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:58:43,269][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:58:43,269][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:58:43,269][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:58:43,269][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:58:43,668][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:58:43,669][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 15:58:43,669][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:58:43,670][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:58:43,670][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:58:43,670][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:58:43,670][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:58:43,671][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:58:43,671][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:58:43,671][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:59:32,095][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 15:59:32,097][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 15:59:32,097][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 15:59:32,229][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 15:59:32,237][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:59:32,237][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 15:59:32,237][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:59:32,237][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:59:32,238][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:59:32,238][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:59:32,273][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:59:32,273][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:59:32,273][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:59:32,273][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:59:32,387][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625039972}
+[2021-06-30 15:59:32,388][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 15:59:32,429][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 15:59:32,432][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 15:59:32,434][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 15:59:32,435][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 15:59:32,436][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 15:59:32,437][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 15:59:32,438][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 15:59:32,439][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 15:59:32,440][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 15:59:32,441][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 15:59:32,561][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625039972}
+[2021-06-30 15:59:32,561][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:01:43,150][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 16:01:43,153][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 16:01:43,153][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 16:01:43,360][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 16:01:43,375][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:01:43,375][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 16:01:43,376][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:01:43,376][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:01:43,377][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:01:43,377][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:01:43,378][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:01:43,378][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:01:43,378][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:01:43,378][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:01:43,489][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625040103}
+[2021-06-30 16:01:43,490][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:01:43,503][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:01:43,503][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 16:01:43,504][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:01:43,504][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:01:43,504][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:01:43,505][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:01:43,505][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:01:43,505][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:01:43,505][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:01:43,506][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:01:43,588][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625040103}
+[2021-06-30 16:01:43,588][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:03:51,390][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 16:03:51,391][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 16:03:51,391][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 16:03:51,572][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 16:03:51,587][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:03:51,588][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 16:03:51,588][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:03:51,589][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:03:51,589][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:03:51,589][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:03:51,590][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:03:51,590][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:03:51,590][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:03:51,590][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:03:51,694][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625040231}
+[2021-06-30 16:03:51,695][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:03:51,773][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:03:51,775][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 16:03:51,776][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:03:51,776][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:03:51,777][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:03:51,777][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:03:51,778][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:03:51,778][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:03:51,779][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:03:51,780][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:03:51,889][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625040231}
+[2021-06-30 16:03:51,890][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:08:02,828][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 16:08:02,831][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 16:08:02,833][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 16:08:02,834][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 16:08:36,131][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 16:08:36,137][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 16:08:36,140][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 16:08:36,140][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 16:09:08,038][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 16:09:08,039][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 16:09:08,039][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 16:09:08,286][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 16:09:08,296][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:09:08,296][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 16:09:08,296][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:09:08,296][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:09:08,297][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:09:08,297][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:09:08,297][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:09:08,297][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:09:08,297][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:09:08,297][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:09:08,448][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625040548}
+[2021-06-30 16:09:08,450][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:09:08,530][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:09:08,531][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 16:09:08,532][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:09:08,533][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:09:08,533][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:09:08,534][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:09:08,534][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:09:08,535][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:09:08,535][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:09:08,536][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:09:08,644][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625040548}
+[2021-06-30 16:09:08,646][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:11:40,465][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 16:11:40,466][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 16:11:40,466][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 16:11:40,636][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 16:12:06,862][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 16:12:06,863][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 16:12:06,863][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 16:12:07,086][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 16:12:07,100][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:12:07,101][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 16:12:07,101][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:12:07,101][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:12:07,101][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:12:07,102][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:12:07,102][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:12:07,102][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:12:07,103][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:12:07,103][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:12:07,209][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625040726}
+[2021-06-30 16:12:07,209][test_user_login.py 33][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:12:07,260][test_user_login.py 26][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:12:07,260][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 16:12:07,260][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:12:07,261][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:12:07,261][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:12:07,261][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:12:07,261][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:12:07,262][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:12:07,262][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:12:07,262][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:12:07,346][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625040727}
+[2021-06-30 16:12:07,346][test_user_login.py 33][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:28:03,078][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 16:28:03,081][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 16:28:03,081][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 16:28:03,452][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 16:28:03,469][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:28:03,470][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 16:28:03,470][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:28:03,471][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:28:03,471][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:28:03,471][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:28:03,472][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:28:03,472][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:28:03,472][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:28:03,472][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:28:03,747][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625041683}
+[2021-06-30 16:28:03,748][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:28:03,804][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:28:03,804][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 16:28:03,805][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:28:03,805][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:28:03,805][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:28:03,806][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:28:03,806][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:28:03,807][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:28:03,807][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:28:03,807][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:28:04,171][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625041683}
+[2021-06-30 16:28:04,172][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:56:40,882][read_data.py 21][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\data\api_test_data.yaml 文件......
+[2021-06-30 16:56:40,884][read_data.py 24][INFO]: 读到数据 ==>>  {'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]} 
+[2021-06-30 16:56:40,884][conftest.py 14][INFO]: 获取yaml文件数据为：{'test_user_login': [['18538049779', 'qwer123456', 0, 0], ['18538049778', 'qwer123456', 1, 104]]}
+[2021-06-30 16:56:41,002][read_data.py 35][INFO]: 加载 C:\Users\Think\Desktop\yaml_test\config.ini 文件......
+[2021-06-30 16:56:41,012][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:56:41,012][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049779
+[2021-06-30 16:56:41,013][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:56:41,013][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:56:41,013][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:56:41,013][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:56:41,034][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049779",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:56:41,034][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:56:41,034][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:56:41,034][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:56:41,142][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":0,"scode":0,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625043400}
+[2021-06-30 16:56:41,143][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************
+[2021-06-30 16:56:41,155][test_user_login.py 25][INFO]: *************** 开始执行用例 ***************
+[2021-06-30 16:56:41,156][test_user_login.py 10][INFO]: 步骤1 ==>> 登录用户：18538049778
+[2021-06-30 16:56:41,156][rest_client.py 52][INFO]: 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[2021-06-30 16:56:41,156][rest_client.py 53][INFO]: 接口请求方式 ==>> POST
+[2021-06-30 16:56:41,157][rest_client.py 55][INFO]: 接口请求头 ==>> null
+[2021-06-30 16:56:41,158][rest_client.py 56][INFO]: 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[2021-06-30 16:56:41,158][rest_client.py 57][INFO]: 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[2021-06-30 16:56:41,158][rest_client.py 58][INFO]: 接口请求体 json 参数 ==>> null
+[2021-06-30 16:56:41,158][rest_client.py 59][INFO]: 接口上传附件 files 参数 ==>> None
+[2021-06-30 16:56:41,159][rest_client.py 60][INFO]: 接口 cookies 参数 ==>> null
+[2021-06-30 16:56:41,250][user.py 24][INFO]: 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625043400}
+[2021-06-30 16:56:41,250][test_user_login.py 32][INFO]: *************** 结束执行用例 ***************

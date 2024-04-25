@@ -1,0 +1,17 @@
+[32mINFO    [0m log:test_user_login.py:25 *************** 开始执行用例 ***************
+[32mINFO    [0m log:test_user_login.py:10 步骤1 ==>> 登录用户：18538049778
+[32mINFO    [0m log:rest_client.py:52 接口请求地址 ==>> http://www.fhd001.com/loginAccount.do
+[32mINFO    [0m log:rest_client.py:53 接口请求方式 ==>> POST
+[32mINFO    [0m log:rest_client.py:55 接口请求头 ==>> null
+[32mINFO    [0m log:rest_client.py:56 接口请求 params 参数 ==>> {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+}
+[32mINFO    [0m log:rest_client.py:57 接口请求体 data 参数 ==>> {
+    "userAccount": "18538049778",
+    "userPwd": "qwer123456"
+}
+[32mINFO    [0m log:rest_client.py:58 接口请求体 json 参数 ==>> null
+[32mINFO    [0m log:rest_client.py:59 接口上传附件 files 参数 ==>> None
+[32mINFO    [0m log:rest_client.py:60 接口 cookies 参数 ==>> null
+[32mINFO    [0m log:user.py:24 登录操作 ==>> 返回结果 ==>> {"rcode":1,"scode":104,"data":{},"status":{"excluded":"","update_status":"false","cluster_list":"","notice_content":"","open_time":"","notice_time":"","user_list":"36038082","excluded_cluster":""},"nowTime":1625043400}
+[32mINFO    [0m log:test_user_login.py:32 *************** 结束执行用例 ***************

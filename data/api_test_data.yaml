@@ -1,0 +1,5 @@
+test_user_login:
+  # 用户名,密码,userAccount, userPwd
+  # userAccount, userPwd, rcode, scode,
+  - ["18538049779", "qwer123456",0,0]
+  - ["18538049778", "qwer123456",1,104 ]
